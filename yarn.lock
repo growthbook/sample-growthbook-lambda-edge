@@ -2,13 +2,13 @@
 # yarn lockfile v1
 
 
-"@growthbook/edge-lambda@^0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@growthbook/edge-lambda/-/edge-lambda-0.0.8.tgz#5f051c9da08defa258209be9421048551a0bab1e"
-  integrity sha512-ONARd4gBKUSZmjPiVIvTODHQJdSmyd2bsNpu8T4VhsPHE7aRllHDdMag1pMeCilzsMypVhg782mF4xiyJRdDDw==
+"@growthbook/edge-lambda@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@growthbook/edge-lambda/-/edge-lambda-0.0.9.tgz#cc4ad6d5ab8a7886fddffe0f5e2382277a458aad"
+  integrity sha512-3c2D/qYeGLpE555UjwxgzI1/e0qpOshiJD6G7RkSgqdcBv4xXLoSVBXobfdtQd5gr77Ck4jfk8Jq10XDSCMNrA==
   dependencies:
     "@growthbook/edge-utils" "^0.1.6"
-    cookie "^0.6.0"
+    cookie "^1.0.1"
 
 "@growthbook/edge-utils@^0.1.6":
   version "0.1.6"
@@ -392,10 +392,10 @@ commondir@^1.0.1:
   resolved "https://registry.yarnpkg.com/commondir/-/commondir-1.0.1.tgz#ddd800da0c66127393cca5950ea968a3aaf1253b"
   integrity sha512-W9pAhw0ja1Edb5GVdIF1mjZw/ASI0AlShXM83UUGe2DVr5TdAPEA1OA8m/g8zWp9x6On7gqufY+FatDbC3MDQg==
 
-cookie@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.6.0.tgz#2798b04b071b0ecbff0dbb62a505a8efa4e19051"
-  integrity sha512-U71cyTamuh1CRNCfpGY6to28lxvNwPG4Guz/EVjgf3Jmzv0vlDp1atT9eS5dDjMYHucpHbWns6Lwf3BKz6svdw==
+cookie@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/cookie/-/cookie-1.0.1.tgz#e1a00d20420e0266aff817815640289eef142751"
+  integrity sha512-Xd8lFX4LM9QEEwxQpF9J9NTUh8pmdJO0cyRJhFiDoLTk2eH8FXlRv2IFGYVadZpqI3j8fhNrSdKCeYPxiAhLXw==
 
 css-select@^5.1.0:
   version "5.1.0"
